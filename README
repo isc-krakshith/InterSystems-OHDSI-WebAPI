@@ -1,0 +1,3 @@
+# InterSystems-OHDSI-WebAPI
+
+This repo contains the release web archive(s) for use with OHDSI tools and enables the functionality in the InterSystems-Broadsea repository. It provides the RESTful services that can be called from OHDSI applications.
